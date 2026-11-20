@@ -72,7 +72,11 @@ data[“REPORTING_PERIOD_END”}.describe()
 # Check that the dates are now real dates
 data.info()
 
+# Count the impossible rows first
+print("Negative values", (data["MEASURE_VALUE"] < 0).sum())
+print("Dates in the future:", (data["REPORTING_PERIOD_START"] > pd.Timestamp.today()).sum())
+print("Start date after end date:", (data["REPORTING_PERIOD_START"] > data["REPORTING_PERIOD_END"]).sum())
 
-
-
+# Keep only the rows that could be true
+data = data[ 
 
