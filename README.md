@@ -78,5 +78,11 @@ print("Dates in the future:", (data["REPORTING_PERIOD_START"] > pd.Timestamp.tod
 print("Start date after end date:", (data["REPORTING_PERIOD_START"] > data["REPORTING_PERIOD_END"]).sum())
 
 # Keep only the rows that could be true
-data = data[ 
+data = data[(data[“MEASURE_VALUE”] >= 0) & (data[REPORTING_PERIOD_START”] <= pd.Tiestamp.today()) & (data[“REPORTING_PERIOD_START”] <= dat[“REPORtING_PERIOD_END])] l.copy()
+
+data.shape
+
+# Save the clean dataset
+data.to_csv(“depression_uk_clean.csv”, index=False)
+print(“Saved”c len(data), “rows to depression_uk_clean.csv”)
 
