@@ -1,11 +1,6 @@
 # basecamp.team15
 welcome
 
-# Download depression dataset
-import urllib.request
-urllib.request.urlretrieve("https://files.digital.nhs.uk/37/BB8EC9/nhstalkingtherapies_time_series_jan_2024_jan_2025_key_measures.csv", "depression_uk.csv")
-print("Downloaded depression_uk.csv")
-
 # Open the rename dataset
 import pandas as pd
 data = pd.read_csv("nhs_talking_therapies_regions_2024_2025.csv")
@@ -27,7 +22,7 @@ data.isna().sum()
 data[data[“MEASURE_VALUE”] == “*”]
 
 # Convert the values into numbers
-data[“MEASURE_VALUE”] = pd.to_numeric(data[“MEASURE_VALUE’], errors=“coerce”)
+data[“MEASURE_VALUE”] = pd.to_numeric(data[“MEASURE_VALUE”], errors=“coerce”)
 
 # Count the blank cells again
 data.isna().sum()
@@ -49,7 +44,7 @@ data.duplicated().sum()
 data[“ORG_NAME1”].value_counts()
 
 # Tidy the space and capitals
-data{“ORG_NAME1”] = data[“ORG_NAME1].str.trip().str.title()
+data[“ORG_NAME1”] = data[“ORG_NAME1”].str.strip().str.title()
 
 data[“ORG_NAME1”].value_counts()
 
@@ -60,30 +55,24 @@ data.info()
 data[“MEASURE_VALUE”].describe()
 
 # Turn the text into real dates. %Y-%m-%d means year/month/day
-data[“REPORTING_PERIOD_START] = pd.to_datetime(data[“REPORTING_PERIOD_START”], format=%Y-%m-%d”)
+data[“REPORTING_PERIOD_START”] = pd.to_datetime(data[“REPORTING_PERIOD_START”], format=“%Y-%m-%d”)
 
-data[“REPORTING_PERIOD_START”}.describe()
+data[“REPORTING_PERIOD_START”].describe()
 
 # Turn the text into real dates. %Y-%m-%d means year/month/day
-data[“REPORTING_PERIOD_END`] = pd.to_datetime(data[“REPORTING_PERIOD_END”], format=%Y-%m-%d”)
+data[“REPORTING_PERIOD_END”] = pd.to_datetime(data[“REPORTING_PERIOD_END”], format=“%Y-%m-%d”)
 
-data[“REPORTING_PERIOD_END”}.describe()
+data[“REPORTING_PERIOD_END”].describe()
 
 # Check that the dates are now real dates
 data.info()
 
-# Count the impossible rows first
-print("Negative values", (data["MEASURE_VALUE"] < 0).sum())
-print("Dates in the future:", (data["REPORTING_PERIOD_START"] > pd.Timestamp.today()).sum())
-print("Start date after end date:", (data["REPORTING_PERIOD_START"] > data["REPORTING_PERIOD_END"]).sum())
-
-# Keep only the rows that could be true
-data = data[(data[“MEASURE_VALUE”] >= 0) & (data[REPORTING_PERIOD_START”] <= pd.Tiestamp.today()) & (data[“REPORTING_PERIOD_START”] <= dat[“REPORtING_PERIOD_END])] l.copy()
-
-data.shape
+# Impossible values: keep only rows that could be true
+data = data[data[“MEASURE_VALUE”] >= 0]
+print(data.shape)
 
 # Save the clean dataset
-data.to_csv(“depression_uk_clean.csv”, index=False)
-print(“Saved”c len(data), “rows to depression_uk_clean.csv”)
+data.to_csv(“nhs_talking_therapies_regions_2024_2025.csv“, index=False)
+print(“Saved”, len(data), “rows to nhs_talking_therapies_regions_2024_2025.csv“)
 
 # Cleaning Decision Log
