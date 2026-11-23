@@ -1,0 +1,1288 @@
+REPORTING_PERIOD_START,REPORTING_PERIOD_END,GROUP_TYPE,ORG_CODE1,ORG_NAME1,ORG_CODE2,ORG_NAME2,MEASURE_ID,MEASURE_NAME,MEASURE_VALUE
+2024-01-01,2024-01-31,England,all,all SubICBs,all,all Providers,M001,Count_ReferralsReceived,176760
+2024-01-01,2024-01-31,England,all,all SubICBs,all,all Providers,M031,Count_AccessingServices,118699
+2024-01-01,2024-01-31,England,all,all SubICBs,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,92.1
+2024-01-01,2024-01-31,England,all,all SubICBs,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98.7
+2024-01-01,2024-01-31,England,all,all SubICBs,all,all Providers,M056,Count_EndedReferrals,156457
+2024-01-01,2024-01-31,England,all,all SubICBs,all,all Providers,M076,Count_FinishedCourseTreatment,58692
+2024-01-01,2024-01-31,England,all,all SubICBs,all,all Providers,M1010,Percentage_ReliableDeterioration,5.9
+2024-01-01,2024-01-31,England,all,all SubICBs,all,all Providers,M186,Percentage_ReliableImprovement,67
+2024-01-01,2024-01-31,England,all,all SubICBs,all,all Providers,M189,Count_ReliableDeterioration,3487
+2024-01-01,2024-01-31,England,all,all SubICBs,all,all Providers,M192,Percentage_Recovery,49.8
+2024-01-01,2024-01-31,England,all,all SubICBs,all,all Providers,M195,Percentage_ReliableRecovery,46.8
+2024-01-01,2024-01-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M001,Count_ReferralsReceived,305
+2024-01-01,2024-01-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M031,Count_AccessingServices,100
+2024-01-01,2024-01-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,73
+2024-01-01,2024-01-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,93
+2024-01-01,2024-01-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M056,Count_EndedReferrals,275
+2024-01-01,2024-01-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M076,Count_FinishedCourseTreatment,70
+2024-01-01,2024-01-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M1010,Percentage_ReliableDeterioration,17
+2024-01-01,2024-01-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M186,Percentage_ReliableImprovement,54
+2024-01-01,2024-01-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M189,Count_ReliableDeterioration,10
+2024-01-01,2024-01-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M192,Percentage_Recovery,36
+2024-01-01,2024-01-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M195,Percentage_ReliableRecovery,34
+2024-01-01,2024-01-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,30805
+2024-01-01,2024-01-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,21545
+2024-01-01,2024-01-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,93
+2024-01-01,2024-01-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98
+2024-01-01,2024-01-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,26700
+2024-01-01,2024-01-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,9525
+2024-01-01,2024-01-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,7
+2024-01-01,2024-01-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,65
+2024-01-01,2024-01-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,635
+2024-01-01,2024-01-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-01-01,2024-01-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,46
+2024-01-01,2024-01-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,14530
+2024-01-01,2024-01-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,10080
+2024-01-01,2024-01-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,89
+2024-01-01,2024-01-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,100
+2024-01-01,2024-01-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,12735
+2024-01-01,2024-01-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,5015
+2024-01-01,2024-01-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-01-01,2024-01-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,68
+2024-01-01,2024-01-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,290
+2024-01-01,2024-01-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-01-01,2024-01-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-01-01,2024-01-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,24835
+2024-01-01,2024-01-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,16645
+2024-01-01,2024-01-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,96
+2024-01-01,2024-01-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,100
+2024-01-01,2024-01-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,21955
+2024-01-01,2024-01-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,9595
+2024-01-01,2024-01-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-01-01,2024-01-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,67
+2024-01-01,2024-01-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,535
+2024-01-01,2024-01-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-01-01,2024-01-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-01-01,2024-01-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,31095
+2024-01-01,2024-01-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,20640
+2024-01-01,2024-01-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,89
+2024-01-01,2024-01-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98
+2024-01-01,2024-01-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,27120
+2024-01-01,2024-01-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,10905
+2024-01-01,2024-01-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,5
+2024-01-01,2024-01-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,69
+2024-01-01,2024-01-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,580
+2024-01-01,2024-01-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-01-01,2024-01-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-01-01,2024-01-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,21650
+2024-01-01,2024-01-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,15710
+2024-01-01,2024-01-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,94
+2024-01-01,2024-01-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-01-01,2024-01-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,19960
+2024-01-01,2024-01-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,7815
+2024-01-01,2024-01-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-01-01,2024-01-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,66
+2024-01-01,2024-01-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,455
+2024-01-01,2024-01-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,48
+2024-01-01,2024-01-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,45
+2024-01-01,2024-01-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,27820
+2024-01-01,2024-01-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,15540
+2024-01-01,2024-01-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,89
+2024-01-01,2024-01-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98
+2024-01-01,2024-01-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,24140
+2024-01-01,2024-01-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,7210
+2024-01-01,2024-01-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,7
+2024-01-01,2024-01-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,66
+2024-01-01,2024-01-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,495
+2024-01-01,2024-01-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,49
+2024-01-01,2024-01-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,46
+2024-01-01,2024-01-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,25715
+2024-01-01,2024-01-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,18440
+2024-01-01,2024-01-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,95
+2024-01-01,2024-01-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,100
+2024-01-01,2024-01-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,23570
+2024-01-01,2024-01-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,8555
+2024-01-01,2024-01-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-01-01,2024-01-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,69
+2024-01-01,2024-01-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,485
+2024-01-01,2024-01-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-01-01,2024-01-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,49
+2024-02-01,2024-02-29,England,all,all SubICBs,all,all Providers,M001,Count_ReferralsReceived,163419
+2024-02-01,2024-02-29,England,all,all SubICBs,all,all Providers,M031,Count_AccessingServices,109260
+2024-02-01,2024-02-29,England,all,all SubICBs,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,92.3
+2024-02-01,2024-02-29,England,all,all SubICBs,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98.7
+2024-02-01,2024-02-29,England,all,all SubICBs,all,all Providers,M056,Count_EndedReferrals,151255
+2024-02-01,2024-02-29,England,all,all SubICBs,all,all Providers,M076,Count_FinishedCourseTreatment,55117
+2024-02-01,2024-02-29,England,all,all SubICBs,all,all Providers,M1010,Percentage_ReliableDeterioration,5.9
+2024-02-01,2024-02-29,England,all,all SubICBs,all,all Providers,M186,Percentage_ReliableImprovement,67.400000000000006
+2024-02-01,2024-02-29,England,all,all SubICBs,all,all Providers,M189,Count_ReliableDeterioration,3245
+2024-02-01,2024-02-29,England,all,all SubICBs,all,all Providers,M192,Percentage_Recovery,51.2
+2024-02-01,2024-02-29,England,all,all SubICBs,all,all Providers,M195,Percentage_ReliableRecovery,47.9
+2024-02-01,2024-02-29,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M001,Count_ReferralsReceived,180
+2024-02-01,2024-02-29,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M031,Count_AccessingServices,85
+2024-02-01,2024-02-29,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,84
+2024-02-01,2024-02-29,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98
+2024-02-01,2024-02-29,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M056,Count_EndedReferrals,190
+2024-02-01,2024-02-29,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M076,Count_FinishedCourseTreatment,45
+2024-02-01,2024-02-29,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M1010,Percentage_ReliableDeterioration,*
+2024-02-01,2024-02-29,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M186,Percentage_ReliableImprovement,66
+2024-02-01,2024-02-29,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M189,Count_ReliableDeterioration,*
+2024-02-01,2024-02-29,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M192,Percentage_Recovery,40
+2024-02-01,2024-02-29,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M195,Percentage_ReliableRecovery,40
+2024-02-01,2024-02-29,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,28845
+2024-02-01,2024-02-29,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,20110
+2024-02-01,2024-02-29,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,93
+2024-02-01,2024-02-29,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-02-01,2024-02-29,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,27595
+2024-02-01,2024-02-29,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,9815
+2024-02-01,2024-02-29,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,7
+2024-02-01,2024-02-29,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,66
+2024-02-01,2024-02-29,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,650
+2024-02-01,2024-02-29,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-02-01,2024-02-29,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-02-01,2024-02-29,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,13160
+2024-02-01,2024-02-29,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,9125
+2024-02-01,2024-02-29,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,89
+2024-02-01,2024-02-29,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-02-01,2024-02-29,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,12025
+2024-02-01,2024-02-29,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,4595
+2024-02-01,2024-02-29,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-02-01,2024-02-29,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,68
+2024-02-01,2024-02-29,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,260
+2024-02-01,2024-02-29,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,53
+2024-02-01,2024-02-29,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,50
+2024-02-01,2024-02-29,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,22915
+2024-02-01,2024-02-29,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,15120
+2024-02-01,2024-02-29,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,95
+2024-02-01,2024-02-29,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,100
+2024-02-01,2024-02-29,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,20240
+2024-02-01,2024-02-29,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,8475
+2024-02-01,2024-02-29,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,5
+2024-02-01,2024-02-29,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,67
+2024-02-01,2024-02-29,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,450
+2024-02-01,2024-02-29,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-02-01,2024-02-29,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-02-01,2024-02-29,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,29815
+2024-02-01,2024-02-29,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,19095
+2024-02-01,2024-02-29,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,90
+2024-02-01,2024-02-29,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98
+2024-02-01,2024-02-29,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,26480
+2024-02-01,2024-02-29,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,10570
+2024-02-01,2024-02-29,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,5
+2024-02-01,2024-02-29,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,69
+2024-02-01,2024-02-29,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,570
+2024-02-01,2024-02-29,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,52
+2024-02-01,2024-02-29,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,49
+2024-02-01,2024-02-29,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,20305
+2024-02-01,2024-02-29,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,14700
+2024-02-01,2024-02-29,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,93
+2024-02-01,2024-02-29,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-02-01,2024-02-29,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,18900
+2024-02-01,2024-02-29,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,6660
+2024-02-01,2024-02-29,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-02-01,2024-02-29,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,66
+2024-02-01,2024-02-29,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,390
+2024-02-01,2024-02-29,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-02-01,2024-02-29,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-02-01,2024-02-29,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,24825
+2024-02-01,2024-02-29,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,14220
+2024-02-01,2024-02-29,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,89
+2024-02-01,2024-02-29,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98
+2024-02-01,2024-02-29,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,23200
+2024-02-01,2024-02-29,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,6815
+2024-02-01,2024-02-29,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-02-01,2024-02-29,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,66
+2024-02-01,2024-02-29,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,435
+2024-02-01,2024-02-29,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,49
+2024-02-01,2024-02-29,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,46
+2024-02-01,2024-02-29,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,23375
+2024-02-01,2024-02-29,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,16810
+2024-02-01,2024-02-29,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,95
+2024-02-01,2024-02-29,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-02-01,2024-02-29,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,22625
+2024-02-01,2024-02-29,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,8145
+2024-02-01,2024-02-29,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-02-01,2024-02-29,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,69
+2024-02-01,2024-02-29,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,490
+2024-02-01,2024-02-29,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,52
+2024-02-01,2024-02-29,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,50
+2024-03-01,2024-03-31,England,all,all SubICBs,all,all Providers,M001,Count_ReferralsReceived,150636
+2024-03-01,2024-03-31,England,all,all SubICBs,all,all Providers,M031,Count_AccessingServices,98268
+2024-03-01,2024-03-31,England,all,all SubICBs,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,92.3
+2024-03-01,2024-03-31,England,all,all SubICBs,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98.7
+2024-03-01,2024-03-31,England,all,all SubICBs,all,all Providers,M056,Count_EndedReferrals,142524
+2024-03-01,2024-03-31,England,all,all SubICBs,all,all Providers,M076,Count_FinishedCourseTreatment,53593
+2024-03-01,2024-03-31,England,all,all SubICBs,all,all Providers,M1010,Percentage_ReliableDeterioration,5.7
+2024-03-01,2024-03-31,England,all,all SubICBs,all,all Providers,M186,Percentage_ReliableImprovement,67
+2024-03-01,2024-03-31,England,all,all SubICBs,all,all Providers,M189,Count_ReliableDeterioration,3048
+2024-03-01,2024-03-31,England,all,all SubICBs,all,all Providers,M192,Percentage_Recovery,50.9
+2024-03-01,2024-03-31,England,all,all SubICBs,all,all Providers,M195,Percentage_ReliableRecovery,47.7
+2024-03-01,2024-03-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M001,Count_ReferralsReceived,225
+2024-03-01,2024-03-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M031,Count_AccessingServices,135
+2024-03-01,2024-03-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,78
+2024-03-01,2024-03-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,96
+2024-03-01,2024-03-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M056,Count_EndedReferrals,215
+2024-03-01,2024-03-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M076,Count_FinishedCourseTreatment,75
+2024-03-01,2024-03-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M1010,Percentage_ReliableDeterioration,8
+2024-03-01,2024-03-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M186,Percentage_ReliableImprovement,64
+2024-03-01,2024-03-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M189,Count_ReliableDeterioration,5
+2024-03-01,2024-03-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M192,Percentage_Recovery,51
+2024-03-01,2024-03-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M195,Percentage_ReliableRecovery,50
+2024-03-01,2024-03-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,27005
+2024-03-01,2024-03-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,18175
+2024-03-01,2024-03-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,93
+2024-03-01,2024-03-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-03-01,2024-03-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,25630
+2024-03-01,2024-03-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,9440
+2024-03-01,2024-03-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,7
+2024-03-01,2024-03-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,65
+2024-03-01,2024-03-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,625
+2024-03-01,2024-03-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-03-01,2024-03-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-03-01,2024-03-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,12305
+2024-03-01,2024-03-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,8650
+2024-03-01,2024-03-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,90
+2024-03-01,2024-03-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-03-01,2024-03-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,11975
+2024-03-01,2024-03-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,4610
+2024-03-01,2024-03-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,5
+2024-03-01,2024-03-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,69
+2024-03-01,2024-03-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,240
+2024-03-01,2024-03-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,53
+2024-03-01,2024-03-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,49
+2024-03-01,2024-03-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,19320
+2024-03-01,2024-03-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,12375
+2024-03-01,2024-03-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,95
+2024-03-01,2024-03-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,100
+2024-03-01,2024-03-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,19225
+2024-03-01,2024-03-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,8795
+2024-03-01,2024-03-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,5
+2024-03-01,2024-03-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,66
+2024-03-01,2024-03-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,455
+2024-03-01,2024-03-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-03-01,2024-03-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-03-01,2024-03-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,27100
+2024-03-01,2024-03-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,17015
+2024-03-01,2024-03-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,90
+2024-03-01,2024-03-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98
+2024-03-01,2024-03-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,24445
+2024-03-01,2024-03-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,9745
+2024-03-01,2024-03-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-03-01,2024-03-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,69
+2024-03-01,2024-03-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,560
+2024-03-01,2024-03-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-03-01,2024-03-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-03-01,2024-03-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,19165
+2024-03-01,2024-03-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,13400
+2024-03-01,2024-03-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,92
+2024-03-01,2024-03-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-03-01,2024-03-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,18140
+2024-03-01,2024-03-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,6990
+2024-03-01,2024-03-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,5
+2024-03-01,2024-03-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,66
+2024-03-01,2024-03-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,370
+2024-03-01,2024-03-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-03-01,2024-03-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,46
+2024-03-01,2024-03-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,23750
+2024-03-01,2024-03-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,13290
+2024-03-01,2024-03-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,89
+2024-03-01,2024-03-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98
+2024-03-01,2024-03-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,21925
+2024-03-01,2024-03-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,6550
+2024-03-01,2024-03-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-03-01,2024-03-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,66
+2024-03-01,2024-03-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,385
+2024-03-01,2024-03-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-03-01,2024-03-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-03-01,2024-03-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,21770
+2024-03-01,2024-03-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,15225
+2024-03-01,2024-03-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,95
+2024-03-01,2024-03-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-03-01,2024-03-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,20960
+2024-03-01,2024-03-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,7385
+2024-03-01,2024-03-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-03-01,2024-03-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,68
+2024-03-01,2024-03-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,410
+2024-03-01,2024-03-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,52
+2024-03-01,2024-03-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,50
+2024-04-01,2024-04-30,England,all,all SubICBs,all,all Providers,M001,Count_ReferralsReceived,151975
+2024-04-01,2024-04-30,England,all,all SubICBs,all,all Providers,M031,Count_AccessingServices,110251
+2024-04-01,2024-04-30,England,all,all SubICBs,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,92.7
+2024-04-01,2024-04-30,England,all,all SubICBs,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98.8
+2024-04-01,2024-04-30,England,all,all SubICBs,all,all Providers,M056,Count_EndedReferrals,152053
+2024-04-01,2024-04-30,England,all,all SubICBs,all,all Providers,M076,Count_FinishedCourseTreatment,57075
+2024-04-01,2024-04-30,England,all,all SubICBs,all,all Providers,M1010,Percentage_ReliableDeterioration,5.8
+2024-04-01,2024-04-30,England,all,all SubICBs,all,all Providers,M186,Percentage_ReliableImprovement,66.8
+2024-04-01,2024-04-30,England,all,all SubICBs,all,all Providers,M189,Count_ReliableDeterioration,3300
+2024-04-01,2024-04-30,England,all,all SubICBs,all,all Providers,M192,Percentage_Recovery,49.6
+2024-04-01,2024-04-30,England,all,all SubICBs,all,all Providers,M195,Percentage_ReliableRecovery,46.7
+2024-04-01,2024-04-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M001,Count_ReferralsReceived,470
+2024-04-01,2024-04-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M031,Count_AccessingServices,440
+2024-04-01,2024-04-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,86
+2024-04-01,2024-04-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-04-01,2024-04-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M056,Count_EndedReferrals,625
+2024-04-01,2024-04-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M076,Count_FinishedCourseTreatment,140
+2024-04-01,2024-04-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M1010,Percentage_ReliableDeterioration,7
+2024-04-01,2024-04-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M186,Percentage_ReliableImprovement,62
+2024-04-01,2024-04-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M189,Count_ReliableDeterioration,10
+2024-04-01,2024-04-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M192,Percentage_Recovery,42
+2024-04-01,2024-04-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M195,Percentage_ReliableRecovery,40
+2024-04-01,2024-04-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,25745
+2024-04-01,2024-04-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,19475
+2024-04-01,2024-04-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,95
+2024-04-01,2024-04-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-04-01,2024-04-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,26730
+2024-04-01,2024-04-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,9895
+2024-04-01,2024-04-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,7
+2024-04-01,2024-04-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,65
+2024-04-01,2024-04-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,645
+2024-04-01,2024-04-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,49
+2024-04-01,2024-04-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,45
+2024-04-01,2024-04-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,12275
+2024-04-01,2024-04-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,9435
+2024-04-01,2024-04-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,90
+2024-04-01,2024-04-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-04-01,2024-04-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,12370
+2024-04-01,2024-04-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,4880
+2024-04-01,2024-04-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,5
+2024-04-01,2024-04-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,69
+2024-04-01,2024-04-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,245
+2024-04-01,2024-04-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-04-01,2024-04-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-04-01,2024-04-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,19915
+2024-04-01,2024-04-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,13645
+2024-04-01,2024-04-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,95
+2024-04-01,2024-04-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,100
+2024-04-01,2024-04-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,18115
+2024-04-01,2024-04-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,8260
+2024-04-01,2024-04-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-04-01,2024-04-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,64
+2024-04-01,2024-04-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,465
+2024-04-01,2024-04-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,48
+2024-04-01,2024-04-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,45
+2024-04-01,2024-04-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,28140
+2024-04-01,2024-04-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,19530
+2024-04-01,2024-04-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,90
+2024-04-01,2024-04-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98
+2024-04-01,2024-04-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,27150
+2024-04-01,2024-04-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,11125
+2024-04-01,2024-04-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-04-01,2024-04-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,69
+2024-04-01,2024-04-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,625
+2024-04-01,2024-04-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-04-01,2024-04-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-04-01,2024-04-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,19360
+2024-04-01,2024-04-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,14675
+2024-04-01,2024-04-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,93
+2024-04-01,2024-04-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-04-01,2024-04-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,19660
+2024-04-01,2024-04-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,7210
+2024-04-01,2024-04-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-04-01,2024-04-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,67
+2024-04-01,2024-04-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,410
+2024-04-01,2024-04-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-04-01,2024-04-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-04-01,2024-04-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,23370
+2024-04-01,2024-04-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,15350
+2024-04-01,2024-04-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,89
+2024-04-01,2024-04-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,97
+2024-04-01,2024-04-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,23935
+2024-04-01,2024-04-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,7120
+2024-04-01,2024-04-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-04-01,2024-04-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,66
+2024-04-01,2024-04-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,460
+2024-04-01,2024-04-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,49
+2024-04-01,2024-04-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-04-01,2024-04-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,22705
+2024-04-01,2024-04-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,17705
+2024-04-01,2024-04-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,95
+2024-04-01,2024-04-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,100
+2024-04-01,2024-04-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,23475
+2024-04-01,2024-04-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,8445
+2024-04-01,2024-04-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,5
+2024-04-01,2024-04-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,68
+2024-04-01,2024-04-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,435
+2024-04-01,2024-04-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-04-01,2024-04-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-05-01,2024-05-31,England,all,all SubICBs,all,all Providers,M001,Count_ReferralsReceived,147369
+2024-05-01,2024-05-31,England,all,all SubICBs,all,all Providers,M031,Count_AccessingServices,107437
+2024-05-01,2024-05-31,England,all,all SubICBs,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,92.2
+2024-05-01,2024-05-31,England,all,all SubICBs,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98.4
+2024-05-01,2024-05-31,England,all,all SubICBs,all,all Providers,M056,Count_EndedReferrals,153203
+2024-05-01,2024-05-31,England,all,all SubICBs,all,all Providers,M076,Count_FinishedCourseTreatment,56960
+2024-05-01,2024-05-31,England,all,all SubICBs,all,all Providers,M1010,Percentage_ReliableDeterioration,5.9
+2024-05-01,2024-05-31,England,all,all SubICBs,all,all Providers,M186,Percentage_ReliableImprovement,67.400000000000006
+2024-05-01,2024-05-31,England,all,all SubICBs,all,all Providers,M189,Count_ReliableDeterioration,3375
+2024-05-01,2024-05-31,England,all,all SubICBs,all,all Providers,M192,Percentage_Recovery,50.8
+2024-05-01,2024-05-31,England,all,all SubICBs,all,all Providers,M195,Percentage_ReliableRecovery,47.9
+2024-05-01,2024-05-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M001,Count_ReferralsReceived,155
+2024-05-01,2024-05-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M031,Count_AccessingServices,80
+2024-05-01,2024-05-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,68
+2024-05-01,2024-05-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-05-01,2024-05-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M056,Count_EndedReferrals,230
+2024-05-01,2024-05-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M076,Count_FinishedCourseTreatment,80
+2024-05-01,2024-05-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-05-01,2024-05-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M186,Percentage_ReliableImprovement,56
+2024-05-01,2024-05-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M189,Count_ReliableDeterioration,5
+2024-05-01,2024-05-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M192,Percentage_Recovery,44
+2024-05-01,2024-05-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M195,Percentage_ReliableRecovery,41
+2024-05-01,2024-05-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,25700
+2024-05-01,2024-05-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,17505
+2024-05-01,2024-05-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,94
+2024-05-01,2024-05-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98
+2024-05-01,2024-05-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,26415
+2024-05-01,2024-05-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,9675
+2024-05-01,2024-05-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,7
+2024-05-01,2024-05-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,65
+2024-05-01,2024-05-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,675
+2024-05-01,2024-05-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-05-01,2024-05-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,46
+2024-05-01,2024-05-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,11775
+2024-05-01,2024-05-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,9065
+2024-05-01,2024-05-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,91
+2024-05-01,2024-05-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-05-01,2024-05-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,12810
+2024-05-01,2024-05-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,4985
+2024-05-01,2024-05-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-05-01,2024-05-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,69
+2024-05-01,2024-05-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,295
+2024-05-01,2024-05-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,53
+2024-05-01,2024-05-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,50
+2024-05-01,2024-05-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,19410
+2024-05-01,2024-05-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,18635
+2024-05-01,2024-05-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,92
+2024-05-01,2024-05-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,97
+2024-05-01,2024-05-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,20435
+2024-05-01,2024-05-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,7805
+2024-05-01,2024-05-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-05-01,2024-05-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,64
+2024-05-01,2024-05-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,445
+2024-05-01,2024-05-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,49
+2024-05-01,2024-05-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,45
+2024-05-01,2024-05-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,26655
+2024-05-01,2024-05-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,17885
+2024-05-01,2024-05-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,91
+2024-05-01,2024-05-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98
+2024-05-01,2024-05-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,27100
+2024-05-01,2024-05-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,11435
+2024-05-01,2024-05-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-05-01,2024-05-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,70
+2024-05-01,2024-05-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,645
+2024-05-01,2024-05-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-05-01,2024-05-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-05-01,2024-05-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,18440
+2024-05-01,2024-05-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,13610
+2024-05-01,2024-05-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,93
+2024-05-01,2024-05-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-05-01,2024-05-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,18775
+2024-05-01,2024-05-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,7300
+2024-05-01,2024-05-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-05-01,2024-05-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,67
+2024-05-01,2024-05-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,405
+2024-05-01,2024-05-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-05-01,2024-05-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-05-01,2024-05-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,23650
+2024-05-01,2024-05-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,14070
+2024-05-01,2024-05-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,89
+2024-05-01,2024-05-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98
+2024-05-01,2024-05-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,23820
+2024-05-01,2024-05-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,7235
+2024-05-01,2024-05-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-05-01,2024-05-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,67
+2024-05-01,2024-05-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,460
+2024-05-01,2024-05-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-05-01,2024-05-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-05-01,2024-05-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,21585
+2024-05-01,2024-05-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,16590
+2024-05-01,2024-05-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,96
+2024-05-01,2024-05-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-05-01,2024-05-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,23620
+2024-05-01,2024-05-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,8445
+2024-05-01,2024-05-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,5
+2024-05-01,2024-05-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,70
+2024-05-01,2024-05-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,450
+2024-05-01,2024-05-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,53
+2024-05-01,2024-05-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,51
+2024-06-01,2024-06-30,England,all,all SubICBs,all,all Providers,M001,Count_ReferralsReceived,135213
+2024-06-01,2024-06-30,England,all,all SubICBs,all,all Providers,M031,Count_AccessingServices,98031
+2024-06-01,2024-06-30,England,all,all SubICBs,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,92.4
+2024-06-01,2024-06-30,England,all,all SubICBs,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98.7
+2024-06-01,2024-06-30,England,all,all SubICBs,all,all Providers,M056,Count_EndedReferrals,141707
+2024-06-01,2024-06-30,England,all,all SubICBs,all,all Providers,M076,Count_FinishedCourseTreatment,54080
+2024-06-01,2024-06-30,England,all,all SubICBs,all,all Providers,M1010,Percentage_ReliableDeterioration,5.6
+2024-06-01,2024-06-30,England,all,all SubICBs,all,all Providers,M186,Percentage_ReliableImprovement,67.7
+2024-06-01,2024-06-30,England,all,all SubICBs,all,all Providers,M189,Count_ReliableDeterioration,3026
+2024-06-01,2024-06-30,England,all,all SubICBs,all,all Providers,M192,Percentage_Recovery,50.9
+2024-06-01,2024-06-30,England,all,all SubICBs,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-06-01,2024-06-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M001,Count_ReferralsReceived,155
+2024-06-01,2024-06-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M031,Count_AccessingServices,80
+2024-06-01,2024-06-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,88
+2024-06-01,2024-06-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,100
+2024-06-01,2024-06-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M056,Count_EndedReferrals,140
+2024-06-01,2024-06-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M076,Count_FinishedCourseTreatment,25
+2024-06-01,2024-06-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M1010,Percentage_ReliableDeterioration,*
+2024-06-01,2024-06-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M186,Percentage_ReliableImprovement,65
+2024-06-01,2024-06-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M189,Count_ReliableDeterioration,*
+2024-06-01,2024-06-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M192,Percentage_Recovery,35
+2024-06-01,2024-06-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M195,Percentage_ReliableRecovery,30
+2024-06-01,2024-06-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,23620
+2024-06-01,2024-06-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,17245
+2024-06-01,2024-06-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,94
+2024-06-01,2024-06-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98
+2024-06-01,2024-06-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,24345
+2024-06-01,2024-06-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,9335
+2024-06-01,2024-06-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-06-01,2024-06-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,66
+2024-06-01,2024-06-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,585
+2024-06-01,2024-06-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-06-01,2024-06-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-06-01,2024-06-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,10540
+2024-06-01,2024-06-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,8215
+2024-06-01,2024-06-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,91
+2024-06-01,2024-06-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-06-01,2024-06-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,11250
+2024-06-01,2024-06-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,4520
+2024-06-01,2024-06-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,5
+2024-06-01,2024-06-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,68
+2024-06-01,2024-06-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,240
+2024-06-01,2024-06-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,52
+2024-06-01,2024-06-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,49
+2024-06-01,2024-06-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,17665
+2024-06-01,2024-06-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,13700
+2024-06-01,2024-06-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,94
+2024-06-01,2024-06-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,100
+2024-06-01,2024-06-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,19620
+2024-06-01,2024-06-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,7985
+2024-06-01,2024-06-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-06-01,2024-06-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,67
+2024-06-01,2024-06-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,445
+2024-06-01,2024-06-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-06-01,2024-06-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-06-01,2024-06-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,24400
+2024-06-01,2024-06-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,16720
+2024-06-01,2024-06-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,90
+2024-06-01,2024-06-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98
+2024-06-01,2024-06-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,25255
+2024-06-01,2024-06-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,10695
+2024-06-01,2024-06-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,5
+2024-06-01,2024-06-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,70
+2024-06-01,2024-06-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,545
+2024-06-01,2024-06-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,52
+2024-06-01,2024-06-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,49
+2024-06-01,2024-06-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,16990
+2024-06-01,2024-06-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,12705
+2024-06-01,2024-06-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,93
+2024-06-01,2024-06-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-06-01,2024-06-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,17015
+2024-06-01,2024-06-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,6885
+2024-06-01,2024-06-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,5
+2024-06-01,2024-06-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,67
+2024-06-01,2024-06-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,375
+2024-06-01,2024-06-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-06-01,2024-06-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-06-01,2024-06-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,22205
+2024-06-01,2024-06-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,13770
+2024-06-01,2024-06-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,88
+2024-06-01,2024-06-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98
+2024-06-01,2024-06-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,22755
+2024-06-01,2024-06-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,6875
+2024-06-01,2024-06-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-06-01,2024-06-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,66
+2024-06-01,2024-06-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,395
+2024-06-01,2024-06-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-06-01,2024-06-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-06-01,2024-06-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,19645
+2024-06-01,2024-06-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,15595
+2024-06-01,2024-06-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,96
+2024-06-01,2024-06-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-06-01,2024-06-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,21330
+2024-06-01,2024-06-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,7755
+2024-06-01,2024-06-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-06-01,2024-06-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,69
+2024-06-01,2024-06-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,440
+2024-06-01,2024-06-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-06-01,2024-06-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,49
+2024-07-01,2024-07-31,England,all,all SubICBs,all,all Providers,M001,Count_ReferralsReceived,151365
+2024-07-01,2024-07-31,England,all,all SubICBs,all,all Providers,M031,Count_AccessingServices,108738
+2024-07-01,2024-07-31,England,all,all SubICBs,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,90.7
+2024-07-01,2024-07-31,England,all,all SubICBs,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98.2
+2024-07-01,2024-07-31,England,all,all SubICBs,all,all Providers,M056,Count_EndedReferrals,160085
+2024-07-01,2024-07-31,England,all,all SubICBs,all,all Providers,M076,Count_FinishedCourseTreatment,62036
+2024-07-01,2024-07-31,England,all,all SubICBs,all,all Providers,M1010,Percentage_ReliableDeterioration,5.8
+2024-07-01,2024-07-31,England,all,all SubICBs,all,all Providers,M186,Percentage_ReliableImprovement,66.900000000000006
+2024-07-01,2024-07-31,England,all,all SubICBs,all,all Providers,M189,Count_ReliableDeterioration,3617
+2024-07-01,2024-07-31,England,all,all SubICBs,all,all Providers,M192,Percentage_Recovery,50.4
+2024-07-01,2024-07-31,England,all,all SubICBs,all,all Providers,M195,Percentage_ReliableRecovery,47.3
+2024-07-01,2024-07-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M001,Count_ReferralsReceived,215
+2024-07-01,2024-07-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M031,Count_AccessingServices,110
+2024-07-01,2024-07-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,50
+2024-07-01,2024-07-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,90
+2024-07-01,2024-07-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M056,Count_EndedReferrals,295
+2024-07-01,2024-07-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M076,Count_FinishedCourseTreatment,80
+2024-07-01,2024-07-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M1010,Percentage_ReliableDeterioration,*
+2024-07-01,2024-07-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M186,Percentage_ReliableImprovement,63
+2024-07-01,2024-07-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M189,Count_ReliableDeterioration,*
+2024-07-01,2024-07-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M192,Percentage_Recovery,51
+2024-07-01,2024-07-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M195,Percentage_ReliableRecovery,49
+2024-07-01,2024-07-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,26535
+2024-07-01,2024-07-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,18980
+2024-07-01,2024-07-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,95
+2024-07-01,2024-07-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-07-01,2024-07-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,28100
+2024-07-01,2024-07-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,10810
+2024-07-01,2024-07-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,7
+2024-07-01,2024-07-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,66
+2024-07-01,2024-07-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,705
+2024-07-01,2024-07-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-07-01,2024-07-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-07-01,2024-07-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,12055
+2024-07-01,2024-07-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,8880
+2024-07-01,2024-07-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,90
+2024-07-01,2024-07-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-07-01,2024-07-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,13270
+2024-07-01,2024-07-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,5530
+2024-07-01,2024-07-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-07-01,2024-07-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,68
+2024-07-01,2024-07-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,340
+2024-07-01,2024-07-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-07-01,2024-07-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-07-01,2024-07-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,20160
+2024-07-01,2024-07-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,15565
+2024-07-01,2024-07-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,92
+2024-07-01,2024-07-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-07-01,2024-07-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,21240
+2024-07-01,2024-07-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,9150
+2024-07-01,2024-07-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-07-01,2024-07-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,66
+2024-07-01,2024-07-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,525
+2024-07-01,2024-07-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-07-01,2024-07-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-07-01,2024-07-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,27140
+2024-07-01,2024-07-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,17995
+2024-07-01,2024-07-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,89
+2024-07-01,2024-07-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98
+2024-07-01,2024-07-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,28190
+2024-07-01,2024-07-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,12425
+2024-07-01,2024-07-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,5
+2024-07-01,2024-07-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,69
+2024-07-01,2024-07-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,675
+2024-07-01,2024-07-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-07-01,2024-07-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-07-01,2024-07-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,18760
+2024-07-01,2024-07-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,14135
+2024-07-01,2024-07-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,92
+2024-07-01,2024-07-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-07-01,2024-07-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,19835
+2024-07-01,2024-07-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,7910
+2024-07-01,2024-07-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-07-01,2024-07-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,67
+2024-07-01,2024-07-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,460
+2024-07-01,2024-07-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-07-01,2024-07-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-07-01,2024-07-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,24655
+2024-07-01,2024-07-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,16190
+2024-07-01,2024-07-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,79
+2024-07-01,2024-07-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,92
+2024-07-01,2024-07-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,25780
+2024-07-01,2024-07-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,7515
+2024-07-01,2024-07-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,5
+2024-07-01,2024-07-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,63
+2024-07-01,2024-07-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,405
+2024-07-01,2024-07-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-07-01,2024-07-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,46
+2024-07-01,2024-07-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,21845
+2024-07-01,2024-07-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,16880
+2024-07-01,2024-07-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,95
+2024-07-01,2024-07-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-07-01,2024-07-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,23375
+2024-07-01,2024-07-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,8615
+2024-07-01,2024-07-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-07-01,2024-07-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,68
+2024-07-01,2024-07-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,505
+2024-07-01,2024-07-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-07-01,2024-07-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-08-01,2024-08-31,England,all,all SubICBs,all,all Providers,M001,Count_ReferralsReceived,136679
+2024-08-01,2024-08-31,England,all,all SubICBs,all,all Providers,M031,Count_AccessingServices,91511
+2024-08-01,2024-08-31,England,all,all SubICBs,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,91.9
+2024-08-01,2024-08-31,England,all,all SubICBs,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-08-01,2024-08-31,England,all,all SubICBs,all,all Providers,M056,Count_EndedReferrals,142143
+2024-08-01,2024-08-31,England,all,all SubICBs,all,all Providers,M076,Count_FinishedCourseTreatment,55485
+2024-08-01,2024-08-31,England,all,all SubICBs,all,all Providers,M1010,Percentage_ReliableDeterioration,5.9
+2024-08-01,2024-08-31,England,all,all SubICBs,all,all Providers,M186,Percentage_ReliableImprovement,67.3
+2024-08-01,2024-08-31,England,all,all SubICBs,all,all Providers,M189,Count_ReliableDeterioration,3270
+2024-08-01,2024-08-31,England,all,all SubICBs,all,all Providers,M192,Percentage_Recovery,50.1
+2024-08-01,2024-08-31,England,all,all SubICBs,all,all Providers,M195,Percentage_ReliableRecovery,47.1
+2024-08-01,2024-08-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M001,Count_ReferralsReceived,150
+2024-08-01,2024-08-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M031,Count_AccessingServices,55
+2024-08-01,2024-08-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,58
+2024-08-01,2024-08-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,93
+2024-08-01,2024-08-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M056,Count_EndedReferrals,200
+2024-08-01,2024-08-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M076,Count_FinishedCourseTreatment,65
+2024-08-01,2024-08-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M1010,Percentage_ReliableDeterioration,*
+2024-08-01,2024-08-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M186,Percentage_ReliableImprovement,52
+2024-08-01,2024-08-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M189,Count_ReliableDeterioration,*
+2024-08-01,2024-08-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M192,Percentage_Recovery,33
+2024-08-01,2024-08-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M195,Percentage_ReliableRecovery,32
+2024-08-01,2024-08-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,24175
+2024-08-01,2024-08-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,14145
+2024-08-01,2024-08-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,95
+2024-08-01,2024-08-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-08-01,2024-08-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,25010
+2024-08-01,2024-08-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,9450
+2024-08-01,2024-08-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,7
+2024-08-01,2024-08-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,65
+2024-08-01,2024-08-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,655
+2024-08-01,2024-08-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,48
+2024-08-01,2024-08-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,45
+2024-08-01,2024-08-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,11035
+2024-08-01,2024-08-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,7455
+2024-08-01,2024-08-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,92
+2024-08-01,2024-08-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-08-01,2024-08-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,11890
+2024-08-01,2024-08-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,5010
+2024-08-01,2024-08-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,5
+2024-08-01,2024-08-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,69
+2024-08-01,2024-08-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,270
+2024-08-01,2024-08-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-08-01,2024-08-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-08-01,2024-08-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,18315
+2024-08-01,2024-08-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,13695
+2024-08-01,2024-08-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,91
+2024-08-01,2024-08-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,100
+2024-08-01,2024-08-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,19175
+2024-08-01,2024-08-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,8265
+2024-08-01,2024-08-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,5
+2024-08-01,2024-08-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,67
+2024-08-01,2024-08-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,440
+2024-08-01,2024-08-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-08-01,2024-08-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-08-01,2024-08-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,24865
+2024-08-01,2024-08-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,16675
+2024-08-01,2024-08-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,90
+2024-08-01,2024-08-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98
+2024-08-01,2024-08-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,24785
+2024-08-01,2024-08-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,10840
+2024-08-01,2024-08-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,5
+2024-08-01,2024-08-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,69
+2024-08-01,2024-08-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,575
+2024-08-01,2024-08-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-08-01,2024-08-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-08-01,2024-08-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,16295
+2024-08-01,2024-08-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,11475
+2024-08-01,2024-08-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,92
+2024-08-01,2024-08-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-08-01,2024-08-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,17345
+2024-08-01,2024-08-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,6810
+2024-08-01,2024-08-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,5
+2024-08-01,2024-08-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,68
+2024-08-01,2024-08-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,375
+2024-08-01,2024-08-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-08-01,2024-08-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-08-01,2024-08-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,22095
+2024-08-01,2024-08-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,13095
+2024-08-01,2024-08-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,88
+2024-08-01,2024-08-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98
+2024-08-01,2024-08-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,22295
+2024-08-01,2024-08-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,6785
+2024-08-01,2024-08-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,7
+2024-08-01,2024-08-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,65
+2024-08-01,2024-08-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,455
+2024-08-01,2024-08-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,49
+2024-08-01,2024-08-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,45
+2024-08-01,2024-08-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,19745
+2024-08-01,2024-08-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,14915
+2024-08-01,2024-08-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,96
+2024-08-01,2024-08-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,100
+2024-08-01,2024-08-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,21440
+2024-08-01,2024-08-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,8255
+2024-08-01,2024-08-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-08-01,2024-08-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,68
+2024-08-01,2024-08-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,500
+2024-08-01,2024-08-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-08-01,2024-08-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-09-01,2024-09-30,England,all,all SubICBs,all,all Providers,M001,Count_ReferralsReceived,146238
+2024-09-01,2024-09-30,England,all,all SubICBs,all,all Providers,M031,Count_AccessingServices,93461
+2024-09-01,2024-09-30,England,all,all SubICBs,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,91.9
+2024-09-01,2024-09-30,England,all,all SubICBs,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99.1
+2024-09-01,2024-09-30,England,all,all SubICBs,all,all Providers,M056,Count_EndedReferrals,136872
+2024-09-01,2024-09-30,England,all,all SubICBs,all,all Providers,M076,Count_FinishedCourseTreatment,55130
+2024-09-01,2024-09-30,England,all,all SubICBs,all,all Providers,M1010,Percentage_ReliableDeterioration,5.9
+2024-09-01,2024-09-30,England,all,all SubICBs,all,all Providers,M186,Percentage_ReliableImprovement,67.8
+2024-09-01,2024-09-30,England,all,all SubICBs,all,all Providers,M189,Count_ReliableDeterioration,3230
+2024-09-01,2024-09-30,England,all,all SubICBs,all,all Providers,M192,Percentage_Recovery,50.2
+2024-09-01,2024-09-30,England,all,all SubICBs,all,all Providers,M195,Percentage_ReliableRecovery,47.2
+2024-09-01,2024-09-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M001,Count_ReferralsReceived,135
+2024-09-01,2024-09-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M031,Count_AccessingServices,85
+2024-09-01,2024-09-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,58
+2024-09-01,2024-09-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,85
+2024-09-01,2024-09-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M056,Count_EndedReferrals,180
+2024-09-01,2024-09-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M076,Count_FinishedCourseTreatment,60
+2024-09-01,2024-09-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M1010,Percentage_ReliableDeterioration,10
+2024-09-01,2024-09-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M186,Percentage_ReliableImprovement,53
+2024-09-01,2024-09-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M189,Count_ReliableDeterioration,5
+2024-09-01,2024-09-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M192,Percentage_Recovery,36
+2024-09-01,2024-09-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M195,Percentage_ReliableRecovery,32
+2024-09-01,2024-09-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,25670
+2024-09-01,2024-09-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,16435
+2024-09-01,2024-09-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,95
+2024-09-01,2024-09-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-09-01,2024-09-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,24880
+2024-09-01,2024-09-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,9745
+2024-09-01,2024-09-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,7
+2024-09-01,2024-09-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,67
+2024-09-01,2024-09-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,645
+2024-09-01,2024-09-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-09-01,2024-09-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-09-01,2024-09-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,11805
+2024-09-01,2024-09-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,7300
+2024-09-01,2024-09-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,92
+2024-09-01,2024-09-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-09-01,2024-09-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,10840
+2024-09-01,2024-09-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,4665
+2024-09-01,2024-09-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-09-01,2024-09-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,69
+2024-09-01,2024-09-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,290
+2024-09-01,2024-09-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-09-01,2024-09-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-09-01,2024-09-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,19790
+2024-09-01,2024-09-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,13840
+2024-09-01,2024-09-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,92
+2024-09-01,2024-09-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-09-01,2024-09-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,18390
+2024-09-01,2024-09-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,8345
+2024-09-01,2024-09-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,5
+2024-09-01,2024-09-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,68
+2024-09-01,2024-09-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,440
+2024-09-01,2024-09-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-09-01,2024-09-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-09-01,2024-09-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,27285
+2024-09-01,2024-09-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,16250
+2024-09-01,2024-09-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,89
+2024-09-01,2024-09-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-09-01,2024-09-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,25025
+2024-09-01,2024-09-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,10890
+2024-09-01,2024-09-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-09-01,2024-09-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,70
+2024-09-01,2024-09-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,600
+2024-09-01,2024-09-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-09-01,2024-09-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-09-01,2024-09-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,18540
+2024-09-01,2024-09-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,12770
+2024-09-01,2024-09-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,93
+2024-09-01,2024-09-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-09-01,2024-09-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,17810
+2024-09-01,2024-09-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,7095
+2024-09-01,2024-09-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-09-01,2024-09-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,66
+2024-09-01,2024-09-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,425
+2024-09-01,2024-09-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-09-01,2024-09-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-09-01,2024-09-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,23575
+2024-09-01,2024-09-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,13365
+2024-09-01,2024-09-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,87
+2024-09-01,2024-09-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98
+2024-09-01,2024-09-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,21545
+2024-09-01,2024-09-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,6615
+2024-09-01,2024-09-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-09-01,2024-09-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,66
+2024-09-01,2024-09-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,405
+2024-09-01,2024-09-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,49
+2024-09-01,2024-09-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,45
+2024-09-01,2024-09-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,19435
+2024-09-01,2024-09-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,13415
+2024-09-01,2024-09-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,96
+2024-09-01,2024-09-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,100
+2024-09-01,2024-09-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,18205
+2024-09-01,2024-09-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,7715
+2024-09-01,2024-09-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,5
+2024-09-01,2024-09-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,69
+2024-09-01,2024-09-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,425
+2024-09-01,2024-09-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-09-01,2024-09-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,49
+2024-10-01,2024-10-31,England,all,all SubICBs,all,all Providers,M001,Count_ReferralsReceived,168013
+2024-10-01,2024-10-31,England,all,all SubICBs,all,all Providers,M031,Count_AccessingServices,107791
+2024-10-01,2024-10-31,England,all,all SubICBs,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,92
+2024-10-01,2024-10-31,England,all,all SubICBs,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-10-01,2024-10-31,England,all,all SubICBs,all,all Providers,M056,Count_EndedReferrals,156061
+2024-10-01,2024-10-31,England,all,all SubICBs,all,all Providers,M076,Count_FinishedCourseTreatment,60534
+2024-10-01,2024-10-31,England,all,all SubICBs,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-10-01,2024-10-31,England,all,all SubICBs,all,all Providers,M186,Percentage_ReliableImprovement,67.400000000000006
+2024-10-01,2024-10-31,England,all,all SubICBs,all,all Providers,M189,Count_ReliableDeterioration,3620
+2024-10-01,2024-10-31,England,all,all SubICBs,all,all Providers,M192,Percentage_Recovery,50.1
+2024-10-01,2024-10-31,England,all,all SubICBs,all,all Providers,M195,Percentage_ReliableRecovery,47.1
+2024-10-01,2024-10-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M001,Count_ReferralsReceived,190
+2024-10-01,2024-10-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M031,Count_AccessingServices,70
+2024-10-01,2024-10-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,75
+2024-10-01,2024-10-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,96
+2024-10-01,2024-10-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M056,Count_EndedReferrals,195
+2024-10-01,2024-10-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M076,Count_FinishedCourseTreatment,65
+2024-10-01,2024-10-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M1010,Percentage_ReliableDeterioration,7
+2024-10-01,2024-10-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M186,Percentage_ReliableImprovement,58
+2024-10-01,2024-10-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M189,Count_ReliableDeterioration,5
+2024-10-01,2024-10-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M192,Percentage_Recovery,49
+2024-10-01,2024-10-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M195,Percentage_ReliableRecovery,44
+2024-10-01,2024-10-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,28685
+2024-10-01,2024-10-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,18340
+2024-10-01,2024-10-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,94
+2024-10-01,2024-10-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-10-01,2024-10-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,26140
+2024-10-01,2024-10-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,9995
+2024-10-01,2024-10-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-10-01,2024-10-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,67
+2024-10-01,2024-10-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,625
+2024-10-01,2024-10-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-10-01,2024-10-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-10-01,2024-10-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,13635
+2024-10-01,2024-10-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,7910
+2024-10-01,2024-10-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,93
+2024-10-01,2024-10-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-10-01,2024-10-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,12680
+2024-10-01,2024-10-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,5140
+2024-10-01,2024-10-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,7
+2024-10-01,2024-10-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,67
+2024-10-01,2024-10-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,340
+2024-10-01,2024-10-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-10-01,2024-10-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,46
+2024-10-01,2024-10-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,22795
+2024-10-01,2024-10-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,15785
+2024-10-01,2024-10-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,92
+2024-10-01,2024-10-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-10-01,2024-10-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,20660
+2024-10-01,2024-10-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,9100
+2024-10-01,2024-10-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-10-01,2024-10-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,67
+2024-10-01,2024-10-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,525
+2024-10-01,2024-10-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,49
+2024-10-01,2024-10-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,46
+2024-10-01,2024-10-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,30365
+2024-10-01,2024-10-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,18395
+2024-10-01,2024-10-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,89
+2024-10-01,2024-10-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-10-01,2024-10-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,27760
+2024-10-01,2024-10-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,11970
+2024-10-01,2024-10-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-10-01,2024-10-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,69
+2024-10-01,2024-10-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,675
+2024-10-01,2024-10-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-10-01,2024-10-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-10-01,2024-10-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,20665
+2024-10-01,2024-10-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,14470
+2024-10-01,2024-10-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,93
+2024-10-01,2024-10-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-10-01,2024-10-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,19635
+2024-10-01,2024-10-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,7570
+2024-10-01,2024-10-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,5
+2024-10-01,2024-10-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,67
+2024-10-01,2024-10-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,405
+2024-10-01,2024-10-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-10-01,2024-10-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-10-01,2024-10-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,26860
+2024-10-01,2024-10-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,15325
+2024-10-01,2024-10-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,88
+2024-10-01,2024-10-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98
+2024-10-01,2024-10-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,24850
+2024-10-01,2024-10-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,7520
+2024-10-01,2024-10-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-10-01,2024-10-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,65
+2024-10-01,2024-10-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,485
+2024-10-01,2024-10-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,49
+2024-10-01,2024-10-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,46
+2024-10-01,2024-10-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,24820
+2024-10-01,2024-10-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,17495
+2024-10-01,2024-10-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,95
+2024-10-01,2024-10-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-10-01,2024-10-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,24145
+2024-10-01,2024-10-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,9170
+2024-10-01,2024-10-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-10-01,2024-10-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,69
+2024-10-01,2024-10-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,560
+2024-10-01,2024-10-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-10-01,2024-10-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-11-01,2024-11-30,England,all,all SubICBs,all,all Providers,M001,Count_ReferralsReceived,149559
+2024-11-01,2024-11-30,England,all,all SubICBs,all,all Providers,M031,Count_AccessingServices,101274
+2024-11-01,2024-11-30,England,all,all SubICBs,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,91.7
+2024-11-01,2024-11-30,England,all,all SubICBs,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98.8
+2024-11-01,2024-11-30,England,all,all SubICBs,all,all Providers,M056,Count_EndedReferrals,142778
+2024-11-01,2024-11-30,England,all,all SubICBs,all,all Providers,M076,Count_FinishedCourseTreatment,54292
+2024-11-01,2024-11-30,England,all,all SubICBs,all,all Providers,M1010,Percentage_ReliableDeterioration,5.9
+2024-11-01,2024-11-30,England,all,all SubICBs,all,all Providers,M186,Percentage_ReliableImprovement,67.400000000000006
+2024-11-01,2024-11-30,England,all,all SubICBs,all,all Providers,M189,Count_ReliableDeterioration,3219
+2024-11-01,2024-11-30,England,all,all SubICBs,all,all Providers,M192,Percentage_Recovery,50.7
+2024-11-01,2024-11-30,England,all,all SubICBs,all,all Providers,M195,Percentage_ReliableRecovery,47.6
+2024-11-01,2024-11-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M001,Count_ReferralsReceived,150
+2024-11-01,2024-11-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M031,Count_AccessingServices,75
+2024-11-01,2024-11-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,92
+2024-11-01,2024-11-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,95
+2024-11-01,2024-11-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M056,Count_EndedReferrals,145
+2024-11-01,2024-11-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M076,Count_FinishedCourseTreatment,40
+2024-11-01,2024-11-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M1010,Percentage_ReliableDeterioration,*
+2024-11-01,2024-11-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M186,Percentage_ReliableImprovement,66
+2024-11-01,2024-11-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M189,Count_ReliableDeterioration,*
+2024-11-01,2024-11-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M192,Percentage_Recovery,51
+2024-11-01,2024-11-30,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M195,Percentage_ReliableRecovery,46
+2024-11-01,2024-11-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,25775
+2024-11-01,2024-11-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,19945
+2024-11-01,2024-11-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,92
+2024-11-01,2024-11-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98
+2024-11-01,2024-11-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,24550
+2024-11-01,2024-11-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,8415
+2024-11-01,2024-11-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-11-01,2024-11-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,65
+2024-11-01,2024-11-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,515
+2024-11-01,2024-11-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,52
+2024-11-01,2024-11-30,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-11-01,2024-11-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,12490
+2024-11-01,2024-11-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,8240
+2024-11-01,2024-11-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,93
+2024-11-01,2024-11-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-11-01,2024-11-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,11580
+2024-11-01,2024-11-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,4630
+2024-11-01,2024-11-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-11-01,2024-11-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,69
+2024-11-01,2024-11-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,295
+2024-11-01,2024-11-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-11-01,2024-11-30,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-11-01,2024-11-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,20885
+2024-11-01,2024-11-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,14305
+2024-11-01,2024-11-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,92
+2024-11-01,2024-11-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-11-01,2024-11-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,19440
+2024-11-01,2024-11-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,8455
+2024-11-01,2024-11-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-11-01,2024-11-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,66
+2024-11-01,2024-11-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,535
+2024-11-01,2024-11-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-11-01,2024-11-30,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-11-01,2024-11-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,27795
+2024-11-01,2024-11-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,17525
+2024-11-01,2024-11-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,89
+2024-11-01,2024-11-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-11-01,2024-11-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,25500
+2024-11-01,2024-11-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,10725
+2024-11-01,2024-11-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,5
+2024-11-01,2024-11-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,70
+2024-11-01,2024-11-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,570
+2024-11-01,2024-11-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-11-01,2024-11-30,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-11-01,2024-11-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,18705
+2024-11-01,2024-11-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,13070
+2024-11-01,2024-11-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,92
+2024-11-01,2024-11-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-11-01,2024-11-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,18270
+2024-11-01,2024-11-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,7095
+2024-11-01,2024-11-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-11-01,2024-11-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,66
+2024-11-01,2024-11-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,415
+2024-11-01,2024-11-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-11-01,2024-11-30,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-11-01,2024-11-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,21250
+2024-11-01,2024-11-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,12865
+2024-11-01,2024-11-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,89
+2024-11-01,2024-11-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98
+2024-11-01,2024-11-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,21715
+2024-11-01,2024-11-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,6740
+2024-11-01,2024-11-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-11-01,2024-11-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,67
+2024-11-01,2024-11-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,425
+2024-11-01,2024-11-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-11-01,2024-11-30,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-11-01,2024-11-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,22505
+2024-11-01,2024-11-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,15250
+2024-11-01,2024-11-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,95
+2024-11-01,2024-11-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-11-01,2024-11-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,21580
+2024-11-01,2024-11-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,8200
+2024-11-01,2024-11-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-11-01,2024-11-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,69
+2024-11-01,2024-11-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,470
+2024-11-01,2024-11-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-11-01,2024-11-30,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-12-01,2024-12-31,England,all,all SubICBs,all,all Providers,M001,Count_ReferralsReceived,125141
+2024-12-01,2024-12-31,England,all,all SubICBs,all,all Providers,M031,Count_AccessingServices,84182
+2024-12-01,2024-12-31,England,all,all SubICBs,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,91.2
+2024-12-01,2024-12-31,England,all,all SubICBs,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98.4
+2024-12-01,2024-12-31,England,all,all SubICBs,all,all Providers,M056,Count_EndedReferrals,133550
+2024-12-01,2024-12-31,England,all,all SubICBs,all,all Providers,M076,Count_FinishedCourseTreatment,48650
+2024-12-01,2024-12-31,England,all,all SubICBs,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-12-01,2024-12-31,England,all,all SubICBs,all,all Providers,M186,Percentage_ReliableImprovement,66.900000000000006
+2024-12-01,2024-12-31,England,all,all SubICBs,all,all Providers,M189,Count_ReliableDeterioration,2914
+2024-12-01,2024-12-31,England,all,all SubICBs,all,all Providers,M192,Percentage_Recovery,50
+2024-12-01,2024-12-31,England,all,all SubICBs,all,all Providers,M195,Percentage_ReliableRecovery,46.8
+2024-12-01,2024-12-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M001,Count_ReferralsReceived,130
+2024-12-01,2024-12-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M031,Count_AccessingServices,75
+2024-12-01,2024-12-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,77
+2024-12-01,2024-12-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,96
+2024-12-01,2024-12-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M056,Count_EndedReferrals,140
+2024-12-01,2024-12-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M076,Count_FinishedCourseTreatment,50
+2024-12-01,2024-12-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M1010,Percentage_ReliableDeterioration,*
+2024-12-01,2024-12-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M186,Percentage_ReliableImprovement,54
+2024-12-01,2024-12-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M189,Count_ReliableDeterioration,*
+2024-12-01,2024-12-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M192,Percentage_Recovery,34
+2024-12-01,2024-12-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M195,Percentage_ReliableRecovery,28
+2024-12-01,2024-12-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,21600
+2024-12-01,2024-12-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,15260
+2024-12-01,2024-12-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,88
+2024-12-01,2024-12-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,95
+2024-12-01,2024-12-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,23575
+2024-12-01,2024-12-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,7955
+2024-12-01,2024-12-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,7
+2024-12-01,2024-12-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,64
+2024-12-01,2024-12-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,540
+2024-12-01,2024-12-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-12-01,2024-12-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,46
+2024-12-01,2024-12-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,10245
+2024-12-01,2024-12-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,6805
+2024-12-01,2024-12-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,93
+2024-12-01,2024-12-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,100
+2024-12-01,2024-12-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,10655
+2024-12-01,2024-12-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,4220
+2024-12-01,2024-12-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-12-01,2024-12-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,67
+2024-12-01,2024-12-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,260
+2024-12-01,2024-12-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-12-01,2024-12-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-12-01,2024-12-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,16950
+2024-12-01,2024-12-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,11940
+2024-12-01,2024-12-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,92
+2024-12-01,2024-12-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-12-01,2024-12-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,18110
+2024-12-01,2024-12-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,7710
+2024-12-01,2024-12-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-12-01,2024-12-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,66
+2024-12-01,2024-12-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,440
+2024-12-01,2024-12-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-12-01,2024-12-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-12-01,2024-12-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,22585
+2024-12-01,2024-12-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,14230
+2024-12-01,2024-12-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,90
+2024-12-01,2024-12-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-12-01,2024-12-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,23230
+2024-12-01,2024-12-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,9385
+2024-12-01,2024-12-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,5
+2024-12-01,2024-12-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,68
+2024-12-01,2024-12-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,515
+2024-12-01,2024-12-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2024-12-01,2024-12-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2024-12-01,2024-12-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,15170
+2024-12-01,2024-12-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,10720
+2024-12-01,2024-12-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,93
+2024-12-01,2024-12-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-12-01,2024-12-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,17930
+2024-12-01,2024-12-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,6295
+2024-12-01,2024-12-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-12-01,2024-12-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,68
+2024-12-01,2024-12-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,370
+2024-12-01,2024-12-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-12-01,2024-12-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2024-12-01,2024-12-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,20520
+2024-12-01,2024-12-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,11775
+2024-12-01,2024-12-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,89
+2024-12-01,2024-12-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98
+2024-12-01,2024-12-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,20360
+2024-12-01,2024-12-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,5985
+2024-12-01,2024-12-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-12-01,2024-12-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,65
+2024-12-01,2024-12-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,380
+2024-12-01,2024-12-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,48
+2024-12-01,2024-12-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,45
+2024-12-01,2024-12-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,17935
+2024-12-01,2024-12-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,13385
+2024-12-01,2024-12-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,95
+2024-12-01,2024-12-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2024-12-01,2024-12-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,19555
+2024-12-01,2024-12-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,7050
+2024-12-01,2024-12-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2024-12-01,2024-12-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,69
+2024-12-01,2024-12-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,405
+2024-12-01,2024-12-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2024-12-01,2024-12-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2025-01-01,2025-01-31,England,all,all SubICBs,all,all Providers,M001,Count_ReferralsReceived,163748
+2025-01-01,2025-01-31,England,all,all SubICBs,all,all Providers,M031,Count_AccessingServices,108372
+2025-01-01,2025-01-31,England,all,all SubICBs,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,91
+2025-01-01,2025-01-31,England,all,all SubICBs,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98.4
+2025-01-01,2025-01-31,England,all,all SubICBs,all,all Providers,M056,Count_EndedReferrals,149131
+2025-01-01,2025-01-31,England,all,all SubICBs,all,all Providers,M076,Count_FinishedCourseTreatment,56781
+2025-01-01,2025-01-31,England,all,all SubICBs,all,all Providers,M1010,Percentage_ReliableDeterioration,5.9
+2025-01-01,2025-01-31,England,all,all SubICBs,all,all Providers,M186,Percentage_ReliableImprovement,67.5
+2025-01-01,2025-01-31,England,all,all SubICBs,all,all Providers,M189,Count_ReliableDeterioration,3371
+2025-01-01,2025-01-31,England,all,all SubICBs,all,all Providers,M192,Percentage_Recovery,50.6
+2025-01-01,2025-01-31,England,all,all SubICBs,all,all Providers,M195,Percentage_ReliableRecovery,47.5
+2025-01-01,2025-01-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M001,Count_ReferralsReceived,155
+2025-01-01,2025-01-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M031,Count_AccessingServices,70
+2025-01-01,2025-01-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,71
+2025-01-01,2025-01-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,92
+2025-01-01,2025-01-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M056,Count_EndedReferrals,185
+2025-01-01,2025-01-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M076,Count_FinishedCourseTreatment,70
+2025-01-01,2025-01-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M1010,Percentage_ReliableDeterioration,*
+2025-01-01,2025-01-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M186,Percentage_ReliableImprovement,68
+2025-01-01,2025-01-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M189,Count_ReliableDeterioration,*
+2025-01-01,2025-01-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M192,Percentage_Recovery,50
+2025-01-01,2025-01-31,CommissioningRegion,InvalidRegionCode,Unknown,all,all Providers,M195,Percentage_ReliableRecovery,48
+2025-01-01,2025-01-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,27680
+2025-01-01,2025-01-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,18185
+2025-01-01,2025-01-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,88
+2025-01-01,2025-01-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,96
+2025-01-01,2025-01-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,24770
+2025-01-01,2025-01-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,8970
+2025-01-01,2025-01-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,7
+2025-01-01,2025-01-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,65
+2025-01-01,2025-01-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,605
+2025-01-01,2025-01-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2025-01-01,2025-01-31,CommissioningRegion,Y56,LONDON COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,46
+2025-01-01,2025-01-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,13420
+2025-01-01,2025-01-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,9595
+2025-01-01,2025-01-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,93
+2025-01-01,2025-01-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,100
+2025-01-01,2025-01-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,12855
+2025-01-01,2025-01-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,4845
+2025-01-01,2025-01-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2025-01-01,2025-01-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,68
+2025-01-01,2025-01-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,280
+2025-01-01,2025-01-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2025-01-01,2025-01-31,CommissioningRegion,Y58,SOUTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2025-01-01,2025-01-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,22435
+2025-01-01,2025-01-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,15595
+2025-01-01,2025-01-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,92
+2025-01-01,2025-01-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2025-01-01,2025-01-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,19905
+2025-01-01,2025-01-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,8935
+2025-01-01,2025-01-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2025-01-01,2025-01-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,67
+2025-01-01,2025-01-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,520
+2025-01-01,2025-01-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2025-01-01,2025-01-31,CommissioningRegion,Y59,SOUTH EAST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,47
+2025-01-01,2025-01-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,29600
+2025-01-01,2025-01-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,19580
+2025-01-01,2025-01-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,89
+2025-01-01,2025-01-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2025-01-01,2025-01-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,26760
+2025-01-01,2025-01-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,11235
+2025-01-01,2025-01-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,5
+2025-01-01,2025-01-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,70
+2025-01-01,2025-01-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,590
+2025-01-01,2025-01-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,51
+2025-01-01,2025-01-31,CommissioningRegion,Y60,MIDLANDS COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,49
+2025-01-01,2025-01-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,19870
+2025-01-01,2025-01-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,13720
+2025-01-01,2025-01-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,92
+2025-01-01,2025-01-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2025-01-01,2025-01-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,18135
+2025-01-01,2025-01-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,7210
+2025-01-01,2025-01-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2025-01-01,2025-01-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,67
+2025-01-01,2025-01-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,410
+2025-01-01,2025-01-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,52
+2025-01-01,2025-01-31,CommissioningRegion,Y61,EAST OF ENGLAND COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
+2025-01-01,2025-01-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,26785
+2025-01-01,2025-01-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,15005
+2025-01-01,2025-01-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,89
+2025-01-01,2025-01-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,98
+2025-01-01,2025-01-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,23790
+2025-01-01,2025-01-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,6880
+2025-01-01,2025-01-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2025-01-01,2025-01-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,66
+2025-01-01,2025-01-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,435
+2025-01-01,2025-01-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,49
+2025-01-01,2025-01-31,CommissioningRegion,Y62,NORTH WEST COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,46
+2025-01-01,2025-01-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M001,Count_ReferralsReceived,23805
+2025-01-01,2025-01-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M031,Count_AccessingServices,16630
+2025-01-01,2025-01-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M053,Percentage_AccessingServices6WeeksFinishedCourseTreatment,95
+2025-01-01,2025-01-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M055,Percentage_AccessingServices18WeeksFinishedCourseTreatment,99
+2025-01-01,2025-01-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M056,Count_EndedReferrals,22730
+2025-01-01,2025-01-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M076,Count_FinishedCourseTreatment,8635
+2025-01-01,2025-01-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M1010,Percentage_ReliableDeterioration,6
+2025-01-01,2025-01-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M186,Percentage_ReliableImprovement,68
+2025-01-01,2025-01-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M189,Count_ReliableDeterioration,530
+2025-01-01,2025-01-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M192,Percentage_Recovery,50
+2025-01-01,2025-01-31,CommissioningRegion,Y63,NORTH EAST AND YORKSHIRE COMMISSIONING REGION,all,all Providers,M195,Percentage_ReliableRecovery,48
