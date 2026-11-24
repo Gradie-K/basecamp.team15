@@ -1,5 +1,194 @@
-# basecamp week 2
-# Download tonight's data file into this notebook (run this once)
+# cleaning data
+# download JAN 2024 PCA
 import urllib.request
-urllib.request.urlretrieve("https://officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fnhsbsa-opendata.s3.eu-west-2.amazonaws.com%2Fpca%2Fpca_summary_tables_2024_v001.xlsx", "JAN-PCA.csv")
-print("Downloaded JAN-PCA.csv")
+import pandas as pd
+
+url = "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/28f05cfd-8f6d-4d4a-85e7-18eae855805f/download/pca_202401.csv"
+urllib.request.urlretrieve(url, "pca_202401.csv")
+
+jan_2024 = pd.read_csv("pca_202401.csv", dtype=str)
+print(jan_2024.shape)
+print(jan_2024.columns.tolist())
+jan_2024.head()
+
+# selecting antidepressant rows for JAN 2024 PCA
+jan_2024["BNF_SECTION_CODE"] == "0403"
+antidep_jan = jan_2024[jan_2024["BNF_SECTION_CODE"] == "0403"]
+
+print(antidep_jan.shape)                       # far fewer rows than before
+print(antidep_jan["BNF_SECTION"].unique())     # should show only antidepressant drugs
+print(antidep_jan["BNF_CHEMICAL_SUBSTANCE"].unique())   # sertraline, citalopram, etc.
+
+# download FEB 2024 PCA
+import urllib.request
+import pandas as pd
+
+url = "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/3ea86f29-8eed-4ae9-a678-4ade331a1baa/download/pca_202402.csv"
+urllib.request.urlretrieve(url, "pca_202402.csv")
+
+feb_2024 = pd.read_csv("pca_202402.csv", dtype=str)
+print(feb_2024.shape)
+print(feb_2024.columns.tolist())
+feb_2024.head()
+
+
+# download MAR 2024 PCA
+import urllib.request
+import pandas as pd
+
+url = "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/4b60a622-0734-4490-8948-26e2bd22359a/download/pca_202403.csv"
+urllib.request.urlretrieve(url, "pca_202403.csv")
+
+mar_2024 = pd.read_csv("pca_202403.csv", dtype=str)
+print(mar_2024.shape)
+print(mar_2024.columns.tolist())
+mar_2024.head()
+
+# download APR 2024 PCA
+import urllib.request
+import pandas as pd
+
+url = "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/5b8ae9da-1bba-4b62-9707-4c23786a1484/download/pca_202404.csv"
+urllib.request.urlretrieve(url, "pca_202404.csv")
+
+apr_2024 = pd.read_csv("pca_202404.csv", dtype=str)
+print(apr_2024.shape)
+print(apr_2024.columns.tolist())
+apr_2024.head()
+
+# download MAY 2024 PCA
+import urllib.request
+import pandas as pd
+
+url = "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/67d39dff-1ad0-43ab-89c2-3a0bb21bcc17/download/pca_202405.csv"
+urllib.request.urlretrieve(url, "pca_202405.csv")
+
+may_2024 = pd.read_csv("pca_202405.csv", dtype=str)
+print(may_2024.shape)
+print(may_2024.columns.tolist())
+may_2024.head()
+
+# download JUN 2024 PCA
+import urllib.request
+import pandas as pd
+
+url = "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/838cab29-0899-46fc-b4f8-474786a8ae38/download/pca_202406.csv"
+urllib.request.urlretrieve(url, "pca_202406.csv")
+
+jun_2024 = pd.read_csv("pca_202406.csv", dtype=str)
+print(jun_2024.shape)
+print(jun_2024.columns.tolist())
+jun_2024.head()
+
+# download JUL 2024 PCA
+import urllib.request
+import pandas as pd
+
+url = "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/05bb3bab-2834-4084-8f87-03a33b080bba/download/pca_202407.csv"
+urllib.request.urlretrieve(url, "pca_202407.csv")
+
+jul_2024 = pd.read_csv("pca_202407.csv", dtype=str)
+print(jul_2024.shape)
+print(jul_2024.columns.tolist())
+jul_2024.head()
+
+# download AUG 2024 PCA
+import urllib.request
+import pandas as pd
+
+url = "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/f1f70fae-df14-4aff-a93c-67b6c63763ca/download/pca_202408.csv"
+urllib.request.urlretrieve(url, "pca_202408.csv")
+
+aug_2024 = pd.read_csv("pca_202408.csv", dtype=str)
+print(aug_2024.shape)
+print(aug_2024.columns.tolist())
+aug_2024.head()
+
+# download SEP 2024 PCA
+import urllib.request
+import pandas as pd
+
+url = "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/f5737c15-4d2a-4b23-953d-795ff3063db1/download/pca_202409.csv"
+urllib.request.urlretrieve(url, "pca_202409.csv")
+
+sep_2024 = pd.read_csv("pca_202409.csv", dtype=str)
+print(sep_2024.shape)
+print(sep_2024.columns.tolist())
+sep_2024.head()
+
+
+# download OCT 2024 PCA
+import urllib.request
+import pandas as pd
+
+url = "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/5f6d1911-8510-4419-bf0c-50e038266eb9/download/pca_202410.csv"
+urllib.request.urlretrieve(url, "pca_202410.csv")
+
+oct_2024 = pd.read_csv("pca_202410.csv", dtype=str)
+print(oct_2024.shape)
+print(oct_2024.columns.tolist())
+oct_2024.head()
+
+# download NOV 2024 PCA
+import urllib.request
+import pandas as pd
+
+url = "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/735d0eba-d1c2-42fc-a86f-69e6d68aaba7/download/pca_202411.csv"
+urllib.request.urlretrieve(url, "pca_202411.csv")
+
+nov_2024 = pd.read_csv("pca_202411.csv", dtype=str)
+print(nov_2024.shape)
+print(nov_2024.columns.tolist())
+nov_2024.head()
+
+# download DEC 2024 PCA
+import urllib.request
+import pandas as pd
+
+url = "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/7a543ac0-923f-4ea0-91c7-13c8a719398b/download/pca_202412.csv"
+urllib.request.urlretrieve(url, "pca_202412.csv")
+
+dec_2024 = pd.read_csv("pca_202412.csv", dtype=str)
+print(dec_2024.shape)
+print(dec_2024.columns.tolist())
+dec_2024.head()
+
+# download JAN 2025 PCA
+import urllib.request
+import pandas as pd
+
+url = "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/6570ce65-36e9-48d3-88d1-7c64b42d1cdb/download/pca_202501.csv"
+urllib.request.urlretrieve(url, "pca_202501.csv")
+
+jan_2025 = pd.read_csv("pca_202501.csv", dtype=str)
+print(jan_2025.shape)
+print(jan_2025.columns.tolist())
+jan_2025.head()
+
+links = {
+    "202401": "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/28f05cfd-8f6d-4d4a-85e7-18eae855805f/download/pca_202401.csv",
+    "202402": "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/3ea86f29-8eed-4ae9-a678-4ade331a1baa/download/pca_202402.csv",
+    "202403": "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/4b60a622-0734-4490-8948-26e2bd22359a/download/pca_202403.csv",
+    "202404": "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/5b8ae9da-1bba-4b62-9707-4c23786a1484/download/pca_202404.csv",
+    "202405": "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/67d39dff-1ad0-43ab-89c2-3a0bb21bcc17/download/pca_202405.csv",
+    "202406": "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/838cab29-0899-46fc-b4f8-474786a8ae38/download/pca_202406.csv",
+    "202407": "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/05bb3bab-2834-4084-8f87-03a33b080bba/download/pca_202407.csv",
+    "202408": "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/f1f70fae-df14-4aff-a93c-67b6c63763ca/download/pca_202408.csv",
+    "202409": "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/f5737c15-4d2a-4b23-953d-795ff3063db1/download/pca_202409.csv",
+    "202410": "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/5f6d1911-8510-4419-bf0c-50e038266eb9/download/pca_202410.csv",
+    "202411": "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/735d0eba-d1c2-42fc-a86f-69e6d68aaba7/download/pca_202411.csv",
+    "202412": "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/7a543ac0-923f-4ea0-91c7-13c8a719398b/download/pca_202412.csv",
+    "202501": "https://opendata.nhsbsa.net/dataset/358e443c-b299-4370-aed4-eca63ce3ba68/resource/6570ce65-36e9-48d3-88d1-7c64b42d1cdb/download/pca_202501.csv"
+
+}
+
+monthly_tables = []   # an empty list, which will collect each month's filtered table
+
+for month, url in links.items():
+    urllib.request.urlretrieve(url, f"pca_{month}.csv")
+    table = pd.read_csv(f"pca_{month}.csv", dtype=str)
+    table = table[table["BNF_SECTION_CODE"] == "0403"]   # keep antidepressant rows only
+    monthly_tables.append(table)
+    print(month, "done:", len(table), "rows")
+
+combined = pd.concat(monthly_tables, ignore_index=True)
