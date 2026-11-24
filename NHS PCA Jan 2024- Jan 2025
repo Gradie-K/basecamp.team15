@@ -1,0 +1,5 @@
+# basecamp week 2
+# Download tonight's data file into this notebook (run this once)
+import urllib.request
+urllib.request.urlretrieve("https://officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fnhsbsa-opendata.s3.eu-west-2.amazonaws.com%2Fpca%2Fpca_summary_tables_2024_v001.xlsx", "JAN-PCA.csv")
+print("Downloaded JAN-PCA.csv")
