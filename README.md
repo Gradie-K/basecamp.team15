@@ -62,15 +62,22 @@ import matplotlib.pyplt as plt
 referrals = data[
   (data["MEASURE-NAME"] == "Count_ReferralsRecieved")
   & (data["GROUP_TYPE"] == "ComissioningRegion")
-  & (data["ORG_NAME1] != "Unkown")
+  & (data["ORG_NAME1"] != "Unkown")
 ].copy()
 
-# Draw a histogram if referrals
-referrals ["MEASUR_VALUE"].plot(kind="hist", bins=30, title="NHS Talking Therapies referrals by region")
+# Draw a histogram of referrals
+referrals ["MEASURE_VALUE"].plot(kind="hist", bins=30, title="NHS Talking Therapies referrals by region")
 plt.xlabel("Number of referrals per region per month")
 plt.ylabel("Number of rows")
 plt.show()
 
-print("Median:", referrals["MEASURE_VALUE”].median())
-print("Middle half:", referrals["MEASUR_VALUE"].quantile(0.25), "to", referrals["MEASURE_VALUE].quantile(0.75))
+print("Median:", referrals["MEASURE_VALUE"].median())
+print("Middle half:", referrals["MEASUR_VALUE"].quantile(0.25), "to", referrals["MEASURE_VALUE"].quantile(0.75))
 
+# Median monthly referrals in each region, lowest first
+by_group = referrals.groupby("ORG_NAME1")["MEASURE_VALUE"].median().sort_values()
+
+by_group.plot(kind="barh", title="Median monthly NHS talking Therapies referrals by region")
+plt.xlabel("Median number of referrals per month")
+plt.ylabel("Region")
+plt.show()
