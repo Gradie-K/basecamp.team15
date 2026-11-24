@@ -1,78 +1,76 @@
 # basecamp.team15
 welcome
 
-# Open the rename dataset
+# Basecamp Week 2
+
+# Open the NHS data and call it data
 import pandas as pd
-data = pd.read_csv("nhs_talking_therapies_regions_2024_2025.csv")
+data = pd.read_csv("nhs_talking_therapies_regions_2024_2025.csv", na_values=["*"])
 data.head()
 
-# How many rows and columns?
-data.shape
-
-# What kind of data is in each column
+# Look: how big is it, what's in each column, what looks odd?
+print(data.shape)
 data.info()
-
-# Quick numbers for each number column
 data.describe()
 
-# Count the blank cells in each column
+# Blanks: count them first, then decide for each column
 data.isna().sum()
 
-# Check which rows have suppressed values
-data[data[“MEASURE_VALUE”] == “*”]
-
-# Convert the values into numbers
-data[“MEASURE_VALUE”] = pd.to_numeric(data[“MEASURE_VALUE”], errors=“coerce”)
+# Drop rows where an important column is blank
+data = data.dropna(subset=["MEASURE_VALUE"])
 
 # Count the blank cells again
 data.isna().sum()
 
-# Drop the rows with no measure value
-data = data.dropna(subset=[“MEASURE_VALUE”])
-
-# Check the remaining rows
-data.shape
-
-# How many rows are exact copies of an earlier row?
-data.duplicated().sum()
-
-# Keep the first copy of each row and drop the repeats
+# Repeated rows: count, then remove
+print(data.duplicated().sum())
 data = data.drop_duplicates()
-data.duplicated().sum()
 
-# Every spelling and how many times each appears
-data[“ORG_NAME1”].value_counts()
+# Spelling: see every version, then tidy the names
+print(data["ORG_NAME1"].unique())
+data["ORG_NAME1"] = data["ORG_NAME1"].str.strip()
 
-# Tidy the space and capitals
-data[“ORG_NAME1”] = data[“ORG_NAME1”].str.strip().str.title()
-
-data[“ORG_NAME1”].value_counts()
-
-# Check that the values are now numbers
+# Check that the values are numbers
 data.info()
+data["MEASURE_VALUE"].describe()
 
-#  Check the numerical values
-data[“MEASURE_VALUE”].describe()
+# Dates: match the format to your data
+data["REPORTING_PERIOD_START"] = pd.to_datetime(data["REPORTING_PERIOD_START"], format="%Y-%m-%d")
 
-# Turn the text into real dates. %Y-%m-%d means year/month/day
-data[“REPORTING_PERIOD_START”] = pd.to_datetime(data[“REPORTING_PERIOD_START”], format=“%Y-%m-%d”)
-
-data[“REPORTING_PERIOD_START”].describe()
-
-# Turn the text into real dates. %Y-%m-%d means year/month/day
-data[“REPORTING_PERIOD_END”] = pd.to_datetime(data[“REPORTING_PERIOD_END”], format=“%Y-%m-%d”)
-
-data[“REPORTING_PERIOD_END”].describe()
+# Dates: match the format to your data
+data["REPORTING_PERIOD_END"] = pd.to_datetime(data["REPORTING_PERIOD_END"], format="%Y-%m-%d")
 
 # Check that the dates are now real dates
 data.info()
 
 # Impossible values: keep only rows that could be true
-data = data[data[“MEASURE_VALUE”] >= 0]
+data = data[data["MEASURE_VALUE"] >= 0]
 print(data.shape)
 
 # Save the clean dataset
-data.to_csv(“nhs_talking_therapies_regions_2024_2025.csv“, index=False)
-print(“Saved”, len(data), “rows to nhs_talking_therapies_regions_2024_2025.csv“)
+data.to_csv("nhs_talking_therapies_clean.csv", index=False)
+print("Saved", len(data), "rows to nhs_talking_therapies_clean.csv")
 
 # Cleaning Decision Log
+# To be completed
+
+# Basecamp Week 4
+
+import matplotlib.pyplt as plt
+
+# Keep only monthly referrals from commissioning regions
+referrals = data[
+  (data["MEASURE-NAME"] == "Count_ReferralsRecieved")
+  & (data["GROUP_TYPE"] == "ComissioningRegion")
+  & (data["ORG_NAME1] != "Unkown")
+].copy()
+
+# Draw a histogram if referrals
+referrals ["MEASUR_VALUE"].plot(kind="hist", bins=30, title="NHS Talking Therapies referrals by region")
+plt.xlabel("Number of referrals per region per month")
+plt.ylabel("Number of rows")
+plt.show()
+
+print("Median:", referrals["MEASURE_VALUE”].median())
+print("Middle half:", referrals["MEASUR_VALUE"].quantile(0.25), "to", referrals["MEASURE_VALUE].quantile(0.75))
+
